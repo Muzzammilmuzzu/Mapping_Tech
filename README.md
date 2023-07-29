@@ -1,8 +1,8 @@
 **Mapping Technology**
 
-**Name** : Balaji K
+**Name** : Mohammed Muzzammil N
 
-**Reg.no** : 19MIC0001
+**Reg.no** : 19MIC0061
 
 
 **Login\_Page**
